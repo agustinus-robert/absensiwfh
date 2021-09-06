@@ -4,7 +4,7 @@
     <li>Livewire</li>
     <li>PHP 7.3</li>
     <li>Framework Laravel</li>
-<ul>
+</ul>
 
 Kunjungi
 
